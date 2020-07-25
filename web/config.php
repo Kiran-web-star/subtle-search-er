@@ -22,15 +22,15 @@ $GLOBALS["TG_BOT_TOKEN"] = getenv("TG_BOT_TOKEN");
 // the message that should be displayed,
 // when the bot is started
 $GLOBALS["START_MESSAGE"] = <<<EOM
-Hi.!
+Hello there..
 
-I'm Subtitle SearchEr Bot.
-I can provide movie / series subtitles.
+I'm a simple Subtitle Searcher !!
+I can provide Movie or series subtitles.
 
-Type the movie / series name,
+Type the Movie or series name,
 and let me try to do the megick..!
 
-Subscribe ℹ️ @SpEcHlDe if you ❤️ using this bot!
+Contact @prgofficial for any queries!! 
 EOM;
 
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
